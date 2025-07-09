@@ -36,7 +36,7 @@ export default function CotacaoForm() {
 
       <br />
 
-      <button onClick={buscarDados}>Buscar</button>
+      <button onClick={buscarDados}>Buscar </button>
 
       <ul>
         {dados.map((item) => (
